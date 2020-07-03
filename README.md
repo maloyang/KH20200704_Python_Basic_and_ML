@@ -1,0 +1,2 @@
+# KH20200704_Python_Basic_and_ML
+Python程式語言與機械學習實務
